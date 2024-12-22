@@ -1,0 +1,22 @@
+.container {
+    padding: 0.4rem;
+    margin: 1.4rem 0;
+    /* border: 1px solid rgba(0, 0, 0, 0.2); */
+    border-radius: 0.6rem;
+    color: white;
+    overflow-y: scroll;
+}
+
+.time {
+    font-size: 1rem;
+    margin-top: 0.5rem;
+    margin-left: 0.5rem;
+    font-weight: 500;
+}
+
+.profileImage {
+    height: 2rem;
+    width: 2rem;
+    border-radius: 50%;
+    margin-right: 0.4rem;
+}
